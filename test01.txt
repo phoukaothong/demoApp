@@ -1,1 +1,3 @@
-this is test01 file for testing git
+this is Test01 file for testing git
+
+the second line of information
